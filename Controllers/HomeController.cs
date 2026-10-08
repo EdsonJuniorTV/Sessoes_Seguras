@@ -1,3 +1,4 @@
+using EnvioEmail.Filters;
 using EnvioEmail.Models;
 using EnvioEmail.Repository;
 using Microsoft.AspNetCore.Mvc;
@@ -5,6 +6,7 @@ using System.Diagnostics;
 
 namespace EnvioEmail.Controllers
 {
+    [UsuarioLogado]
     public class HomeController : Controller
     {
         private readonly IUsuarioRepository usuarioRepository;
@@ -14,7 +16,9 @@ namespace EnvioEmail.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            int usuarioId = HttpContext.Session.GetInt32("UsuarioId")!.Value;
+            Usuario? usuario = usuarioRepository.BuscarPorId(usuarioId);
+            return View(usuario);
         }
 
         public IActionResult Privacy()

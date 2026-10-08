@@ -15,6 +15,11 @@ namespace EnvioEmail.Controllers
         }
         public IActionResult Index()
         {
+            if (HttpContext.Session.GetInt32("UsuarioId") != null)
+            {
+                return RedirectToAction("Index", "Home");
+            }
+
             return View();
         }
 
@@ -30,6 +35,7 @@ namespace EnvioEmail.Controllers
                     if (usuarioExistente != null)
                     {
                         HttpContext.Session.SetInt32("UsuarioId", usuarioExistente.Id);
+                        HttpContext.Session.SetString("UsuarioNome", usuarioExistente.Nome);
                         return View("~/Views/Home/Index.cshtml", usuarioExistente);
                     }
                     else

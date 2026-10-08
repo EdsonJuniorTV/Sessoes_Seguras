@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\",
+  "WorkspaceRootPath": "C:\\Users\\aluno\\Desktop\\Sessoes_Seguras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\aluno\\desktop\\sessoes_seguras\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\aluno\\desktop\\sessoes_seguras\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\professor\\desktop\\sessoes_asp.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|c:\\users\\aluno\\desktop\\sessoes_seguras\\filters\\usuariologadoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C628BD-8120-5B85-BFDF-2855C1BA07F8}|EnvioEmail.csproj|solutionrelative:filters\\usuariologadoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "Models\\Login.cs",
-              "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Models\\Login.cs",
-              "RelativeToolTip": "Models\\Login.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\Sessoes_Seguras\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\Sessoes_Seguras\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T16:52:41.549Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-10-08T17:32:30.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\Sessoes_Seguras\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\Sessoes_Seguras\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T17:08:28.012Z",
+              "WhenOpened": "2026-10-08T17:10:12.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UsuarioLogadoAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Desktop\\Sessoes_Seguras\\Filters\\UsuarioLogadoAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\UsuarioLogadoAttribute.cs",
+              "ToolTip": "C:\\Users\\aluno\\Desktop\\Sessoes_Seguras\\Filters\\UsuarioLogadoAttribute.cs",
+              "RelativeToolTip": "Filters\\UsuarioLogadoAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T16:57:55.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T16:55:50.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_LayoutDeslogado.cshtml",
-              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Shared\\_LayoutDeslogado.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutDeslogado.cshtml",
-              "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Shared\\_LayoutDeslogado.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutDeslogado.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-01T16:47:35.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-01T16:47:03.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Professor\\Desktop\\Sessoes_ASP.NET\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-01T16:41:38.77Z",
+              "WhenOpened": "2026-10-08T16:44:31.46Z",
               "EditorCaption": ""
             }
           ]
