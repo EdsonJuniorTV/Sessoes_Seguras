@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\aluno\\Desktop\\Sessoes_Seguras\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwD0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T17:32:30.434Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T17:10:12.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-08T17:10:12.693Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Filters\\UsuarioLogadoAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T16:44:31.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-08T16:44:31.46Z"
             }
           ]
         }

@@ -943,7 +943,6 @@ C:\Users\aluno\Desktop\Sessoes_Seguras\obj\Debug\net10.0\staticwebassets.build.j
 C:\Users\aluno\Desktop\Sessoes_Seguras\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\aluno\Desktop\Sessoes_Seguras\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\aluno\Desktop\Sessoes_Seguras\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\aluno\Desktop\Sessoes_Seguras\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\aluno\Desktop\Sessoes_Seguras\obj\Debug\net10.0\EnvioEmail.csproj.Up2Date
 C:\Users\aluno\Desktop\Sessoes_Seguras\obj\Debug\net10.0\EnvioEmail.dll
 C:\Users\aluno\Desktop\Sessoes_Seguras\obj\Debug\net10.0\refint\EnvioEmail.dll

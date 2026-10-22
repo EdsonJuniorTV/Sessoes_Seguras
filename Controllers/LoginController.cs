@@ -53,5 +53,13 @@ namespace EnvioEmail.Controllers
                 return RedirectToAction("Index");
             }
         }
+
+        [HttpPost]
+        public IActionResult Sair()
+        {
+            HttpContext.Session.Clear();
+            Response.Cookies.Delete(".AspNetCore.Session");
+            return RedirectToAction("Index", "Login");
+        }
     }
 }
